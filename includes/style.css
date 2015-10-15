@@ -76,11 +76,16 @@ hr {
 }
 
 .facebook-logo img {
-	width: 5%;
-	margin: 48% 0 0 93%;
+	width: 75px;
+    right: 2%;
+    top: 80%;
 	position: fixed;
 }
 
 .article-header-image {
 	float: left;
+}
+
+.article-content {
+    margin-right: 125px;
 }
